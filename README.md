@@ -1,7 +1,15 @@
 auth
 ============
 
-<!-- [![Hackage](https://img.shields.io/hackage/v/auth.svg)](https://hackage.haskell.org/package/auth) [![Build Status](https://secure.travis-ci.org/ekmett/auth.png?branch=master)](http://travis-ci.org/ekmett/auth) -->
+<!-- badges:start -->
+[![issues](https://img.shields.io/github/issues/ekmett/auth-hs?style=flat&label=issues&color=007ec6&logo=github&logoColor=white)](https://github.com/ekmett/auth-hs/issues)
+[![commits](https://img.shields.io/github/commit-activity/w/ekmett/auth-hs?style=flat&label=commits&color=007ec6&logo=github&logoColor=white)](https://github.com/ekmett/auth-hs/activity)
+
+[![Haskell](https://img.shields.io/static/v1?label=&message=Haskell&color=5e5086&style=flat&logo=haskell&logoColor=white)](auth.cabal)
+
+[![license: BSD-2-Clause](https://img.shields.io/static/v1?label=license&message=BSD-2-Clause&color=007ec6&style=flat)](LICENSE)
+[![Contributor Covenant: 2.0](https://img.shields.io/static/v1?label=Contributor+Covenant&message=2.0&color=007ec6&style=flat&logo=contributorcovenant&logoColor=white)](CODE_OF_CONDUCT.md)
+<!-- badges:end -->
 
 Authenticated data structures in Haskell.
 
